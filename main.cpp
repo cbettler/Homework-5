@@ -191,7 +191,7 @@ int main() {
     //MERGE SORT TESTING
     /*cout<<"MERGE SORT"<<endl;
     
-    MergeSortCont(Array1, 0, 10000);
+    MergeSortCont(Array1B, 0, 10000);
     
     for(int k = 0; k< 10000; k++){
      
