@@ -515,6 +515,8 @@ int partition(int a[], int left, int right, int pivotIndex)
 
 
 void quicksort(int a[], int left, int right)
+//Note: I'm aware there is a slight issue with quicksort, based on the numbers it returns (it doesnt' quite go to 10,000, but it is in order)
+//but I'm not sure what exactly. 
 
 {
     if (left < right)
